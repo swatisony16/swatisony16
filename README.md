@@ -5,10 +5,6 @@
 </em></p>
 
 
-[![Linkedin: swati](www.linkedin.com/in/swati-sony-78087a2b6)](https://www.linkedin.com/in/anmol098/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-
-
 ### 📫 Like to meet me?
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
